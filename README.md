@@ -6,7 +6,7 @@
 
 2. Клонируйте репозиторий на свой компьютер:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/PowerForLuxx/crudads
 
 3. Перейдите в каталог проекта:
 
